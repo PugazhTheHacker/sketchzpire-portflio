@@ -38,16 +38,16 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #005380;
+    background-color: #818080;
 }
 
 :root {
     --black: #000007;
-    --two: #2687bc;
-    --three: #5ea0cc;
-    --four: #94bdde;
-    --five: #bcd6e6;
-    --white: #e0efed;
+    --two: #f80d40;
+    --three: #a34449;
+    --four: #e76e74;
+    --five: #eb5884;
+    --white: #e29ac4;
 }
 
 body {
@@ -103,13 +103,13 @@ section {
     font-size: 60px;
     font-weight: 800;
     background-clip: text;
-    background-image: linear-gradient(45deg, #b8c6f5, #1d8cc0, #112875);
+    background-image: linear-gradient(45deg, #f9faf8, #aaa7a7, #525050);
     color: transparent;
 }
 
 /*----------header style------------*/
 .header {
-    background-image: linear-gradient(to bottom right, hsla(197, 100%, 72%, 0.582), rgba(0, 81, 255, 0.274));
+    background-image: linear-gradient(to bottom right, hsla(336, 79%, 11%, 0.582), rgba(0, 81, 255, 0.274));
     height: 60px;
     width: 90%;
     display: flex;
@@ -197,7 +197,7 @@ section {
     align-items: center;
     justify-content: center;
     margin: auto;
-    background-image: url(img/giphy-loop.mp4);
+    background-image: url(img/animation.gif.mp4\ \(1\).gif);
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;
@@ -209,7 +209,7 @@ section {
     z-index: 1;
     width: 200px;
     height: 200px;
-    background-color: #0495e2;
+    background-color: #a0042b;
     border-radius: 50%;
     filter: blur(200px);
     opacity: 100%;
@@ -223,7 +223,7 @@ section {
     z-index: 1;
     width: 200px;
     height: 200px;
-    background-color: #0c004d;
+    background-color: #29010e;
     border-radius: 50%;
     filter: blur(150px);
     opacity: 100%;
@@ -246,7 +246,7 @@ section {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: linear-gradient(45deg, #00097b, #15b7cc, #00097b);
+    background-image: linear-gradient(45deg, #f8f6f6, #9b9a9a, #0a0a0a);
     animation: ease infinite gradiant 3s;
     -webkit-animation: ease infinite gradiant 3s;
     background-size: 400% 400%;
@@ -302,7 +302,7 @@ section {
     align-items: center;
     text-align: center;
     margin: auto;
-    color:#0093e2  ;
+    color:#e20026  ;
     padding-bottom: 2%;
     width: 299px;
 }
@@ -366,7 +366,7 @@ section {
     position: absolute;
     z-index: -2;
     border-radius: 50%;
-    box-shadow: 2px 2px 0px inset #007dc0,
+    box-shadow: 2px 2px 0px inset #c0001a,
         -2px -2px 0px inset transparent;
     transition-duration: .5s;
 }
@@ -381,7 +381,7 @@ section {
     z-index: -2;
     border-radius: 50%;
     box-shadow: 2px 2px 0px inset transparent,
-        -2px -2px 0px inset #007dc0;
+        -2px -2px 0px inset #c00010;
     transition-duration: .5s;
 }
 
@@ -412,13 +412,13 @@ section {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: linear-gradient(45deg, #0059ff, #00aeff, #0059ff);
+    background-image: linear-gradient(45deg, #ff0022, #fc4b69, #d81958);
 }
 
 .j-subtitle {
     font-size: 25px;
     font-weight: 200;
-    color: rgb(81, 123, 163);
+    color: rgb(214, 51, 65);
 }
 
 .j-contant {
@@ -463,7 +463,7 @@ section {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: linear-gradient(45deg, #0059ff, #00aeff, #0059ff);
+    background-image: linear-gradient(45deg, #ff0000, #f15555, #f35b95);
 }
 
 .l-quotes {
@@ -479,7 +479,7 @@ section {
     z-index: 1;
     width: 600px;
     height: 600px;
-    background-color: #007dc0;
+    background-color: #575656;
     border-radius: 50%;
     filter: blur(300px);
     opacity: 100%;
@@ -501,7 +501,7 @@ section {
     z-index: -1;
     width: 300px;
     height: 300px;
-    background-color: #007dc0;
+    background-color: #f50762;
     border-radius: 50%;
     filter: blur(300px);
     opacity: 100%;
@@ -539,7 +539,7 @@ section {
 .contact-blob {
     width: 100%;
     height: 150px;
-    background-color: rgb(0, 153, 255);
+    background-color: rgb(255, 0, 76);
     border-radius: 50%;
     filter: blur(50px);
     opacity: 0.7;
@@ -560,7 +560,7 @@ section {
     font-size: 40px;
     font-weight: 400;
     background-clip: text;
-    background-image: linear-gradient(45deg, #0059ff, #00aeff, #0059ff);
+    background-image: linear-gradient(45deg, #ff0040, #da5186, #eb1579);
     color: transparent;
 }
 
@@ -588,7 +588,7 @@ section {
     border: 2px solid rgb(226, 222, 222);
     transition-duration: .3s;
     position: relative;
-    box-shadow: 0px 0px 0px#007dc0 inset;
+    box-shadow: 0px 0px 0px#c0001a inset;
     transition-duration: .3s;
 }
 
@@ -603,7 +603,7 @@ section {
 }
 
 .logos a:hover {
-    box-shadow: 0px 0px 50px 100px#007dc0 inset;
+    box-shadow: 0px 0px 50px 100px#f31036 inset;
     transition-duration: 1s;
     border: none;
 }
@@ -616,7 +616,7 @@ section {
     left: 0;
     border-radius: 50%;
     transform: scale(0);
-    background-color: #007dc0;
+    background-color: #c0000a;
     background-color: transparent;
     transition-duration: .3s;
     z-index: -1;
@@ -657,7 +657,7 @@ footer p {
     font-weight: 600;
     writing-mode: vertical-rl;
     text-align: center;
-    color: rgb(0, 153, 255);
+    color: rgb(253, 47, 109);
     background-color: transparent;
     font-family: Whitney, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     z-index: 1;
@@ -745,7 +745,7 @@ footer p {
     }
 
     ::-webkit-scrollbar-thumb {
-        background-color: #005380;
+        background-color: #0f0f0f;
     }
 
     /*----------title style----------*/
@@ -775,7 +775,7 @@ footer p {
         top: 0;
         padding: 10px 20px;
         z-index: 9999;
-        background-color: #007dc0;
+        background-color: #e71c1c;
     }
 
     .name1 {
@@ -838,7 +838,7 @@ footer p {
         height: 100%;
         width: 100%;
         border-radius: 0;
-        background: #007dc0;
+        background: #f81f60;
         box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
         z-index: 2;
         opacity: 0;
@@ -1016,7 +1016,7 @@ footer p {
 body {
     margin: 0;
     padding: 0;
-    background-image: url('img/backrond.jpg'); /* replace with actual image */
+    background-image: url('img/'); /* replace with actual image */
     background-size: contain ;        /* 👈 Zoom out image */
     background-repeat: no-repeat;
     background-position: center;
