@@ -150,7 +150,7 @@ section {
     text-decoration: none;
     padding: 5px 10px;
     font-size: 18px;
-    color: black;
+    color: rgb(241, 237, 237);
 }
 
 .nav-links li {
@@ -160,7 +160,7 @@ section {
 .nav-links li a {
     text-decoration: none;
     position: relative;
-    color: #000000;
+    color: #f3efef;
     font-size: 22px;
     font-weight: 500;
 }
@@ -172,7 +172,7 @@ section {
     bottom: -3px;
     width: 0%;
     height: 4px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(15, 15, 15);
     transition: width 0.3s ease-in-out;
 }
 
@@ -181,7 +181,7 @@ section {
 }
 
 .nav-links li a.active {
-    color: rgb(230, 238, 255);
+    color: rgb(126, 33, 33);
     font-weight: bold;
 }
 
