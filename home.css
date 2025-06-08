@@ -209,7 +209,7 @@ section {
     z-index: 1;
     width: 200px;
     height: 200px;
-    background-color: #a0042b;
+    background-color: #1f1111;
     border-radius: 50%;
     filter: blur(200px);
     opacity: 100%;
@@ -223,7 +223,7 @@ section {
     z-index: 1;
     width: 200px;
     height: 200px;
-    background-color: #29010e;
+    background-color: #dd3c3c;
     border-radius: 50%;
     filter: blur(150px);
     opacity: 100%;
@@ -302,7 +302,7 @@ section {
     align-items: center;
     text-align: center;
     margin: auto;
-    color:#e20026  ;
+    color:#919292  ;
     padding-bottom: 2%;
     width: 299px;
 }
@@ -310,7 +310,7 @@ section {
 .img-div:hover img {
     transform: translate(-2px, -10px);
     transition-duration: 300ms;
-    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.753);
+    box-shadow: 5px 10px 15px rgba(158, 157, 160, 0.753);
 }
 
 /*----------about section------------*/
@@ -775,7 +775,7 @@ footer p {
         top: 0;
         padding: 10px 20px;
         z-index: 9999;
-        background-color: #e71c1c;
+        background-color: #070606;
     }
 
     .name1 {
@@ -838,7 +838,7 @@ footer p {
         height: 100%;
         width: 100%;
         border-radius: 0;
-        background: #f81f60;
+        background: #080808;
         box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
         z-index: 2;
         opacity: 0;
