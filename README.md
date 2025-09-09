@@ -7,7 +7,6 @@ If you're using this project and want to set up authentication, here’s how:
 ### 🛠️ Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 
-- **Authentication**: JWT / OAuth / Basic Auth (choose what fits your app)
 
 ### 🔑 Steps for Authentication
 
