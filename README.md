@@ -13,7 +13,7 @@ If you're using this project and want to set up authentication, here’s how:
 1. **Create an account/login page**
 2. **Set up your backend to accept login requests**
 3. **Use tokens or session-based authentication**
-4. **Protect routes/pages that require login**
+
 
 ## About Me
 
