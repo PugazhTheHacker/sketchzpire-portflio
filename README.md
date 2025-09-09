@@ -1,5 +1,5 @@
 # sketchzpire-portflio
-# 👋 Hi there, I’m @Pugazh2006
+# 👋 Hi there, I’m @PugazhTheHacker
 
 
 If you're using this project and want to set up authentication, here’s how:
