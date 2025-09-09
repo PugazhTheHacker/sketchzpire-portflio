@@ -1,7 +1,6 @@
 # sketchzpire-portflio
 # 👋 Hi there, I’m @Pugazh2006
 
-## 🔐 Authentication Setup (Basic Guide)
 
 If you're using this project and want to set up authentication, here’s how:
 
