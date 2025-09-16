@@ -27,7 +27,7 @@ If you're using this project and want to set up authentication, here’s how:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I can sketch, code, and crack bugs — all before lunch 🖌️💻🐞
 
----
+
 
 > ⚠️ This is a portfolio and experimental project. Use responsibly!
 
