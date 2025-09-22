@@ -26,7 +26,7 @@ If you're using this project and want to set up authentication, here’s how:
 - 💞️ I’m looking to collaborate on **creative, secure, open-source web projects**
 - 📫 How to reach me: **[pugazhenthi.contact@gmail.com](mailto:pugazhenthi.contact@gmail.com)**  
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I can sketch, code, and crack bugs — all before lunch 🖌️💻🐞
+- ⚡ Fun fact: I can sketch, code, and crack bugs — all before  lunch 🖌️💻🐞
 
 
 
